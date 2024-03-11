@@ -4,3 +4,5 @@ name=st.("Your name")
 st.write("Hello"+name)
 input=("lapin")
 list_possibilities=["rabbit","grease","rhyme","wolf"]
+for: in rage(len(list_posibilities))
+st.button(list__possibilities[i])
